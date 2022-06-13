@@ -24,11 +24,7 @@
     }
 }
 
-@media (min-heigth: 631px) {
-    .container-menu{
-        display: nome;
-    }
-}
+
 
 @media (max-width: 1000px) {
     .container {
